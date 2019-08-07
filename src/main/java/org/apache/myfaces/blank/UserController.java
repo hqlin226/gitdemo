@@ -12,4 +12,8 @@ package org.apache.myfaces.blank;
  * @Date 2019/8/7 4:26 PM
  */
 public class UserController {
+
+    public String getUser(){
+        return "hhah";
+    }
 }
