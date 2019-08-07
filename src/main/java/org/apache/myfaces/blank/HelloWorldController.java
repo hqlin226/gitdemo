@@ -20,7 +20,8 @@ package org.apache.myfaces.blank;
 
 /**
  * A typical simple backing bean, that is backed to <code>helloworld.jsp</code>
- * 
+ *
+ * add comment 01
  */
 public class HelloWorldController {
 
